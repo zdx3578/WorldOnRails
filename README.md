@@ -27,6 +27,7 @@ If you find our repo or paper useful, please cite us as
 * Checkout our [website](https://dotchen.github.io/world_on_rails/) for demo videos!
 
 ## Getting Started
+* https://github.com/dotchen/WorldOnRails/blob/release/docs/FAQ.md
 * To run CARLA and train the models, make sure you are using a machine with **at least** a mid-end GPU.
 * Please follow [INSTALL.md](docs/INSTALL.md) to setup the environment.
 
