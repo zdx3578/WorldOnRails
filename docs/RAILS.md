@@ -49,7 +49,7 @@ You can specify the `route*.xml` you would like to collect data with in `rails/d
 
 * Q labeling
 ```bash
-python -m rails.data_phase2 --num-runners=[NUM RUNNERS]
+python -m rails.data_phase2 --num-workers=[NUM RUNNERS]
 ```
 
 ### Stage 2: Image model training
